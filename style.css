@@ -1,0 +1,115 @@
+.calc{
+    width: 580px;
+    height: 695px;
+    background: rgb(0, 0, 0);
+    position: relative;
+    left: 642px;
+    border-color: rgb(183, 176, 176);
+    border-style: groove;
+    position: relative;
+    top: -870px;
+}
+.screen{
+    height: 93px;
+    width: 530px;
+    position: relative;
+    left: 24px;
+    top: 24px;
+    pointer-events: none;
+    font-size: 51px;
+    font-weight: bold;
+    background-color:rgb(191, 191, 191);
+    border-style: hidden;
+    color: rgb(0, 0, 0);
+    font-family: Arial narrow;
+}
+.btn{
+    width: 125px;
+    height: 78px;
+    margin-left: 7px;
+    background-color: rgb(0, 0, 0);
+    border-style: groove;
+    border-color: rgb(48, 48, 48);
+    border-radius: 5px;
+    color: white;
+    font-size: 38px;
+    font-style: normal;
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 4%, rgba(21,21,21,1) 29%, rgba(44,44,44,1) 61%, rgba(54,54,54,1) 70%, rgba(61,61,61,1) 78%, rgba(69,69,69,1) 81%, rgba(110,110,110,1) 92%, rgba(40,40,40,1) 98%, rgba(147,147,147,1) 99%, rgba(175,175,175,1) 100%, rgba(152,152,152,1) 100%, rgba(152,152,152,1) 100%, rgba(76,76,76,1) 100%, rgba(124,124,124,1) 100%, rgba(255,255,255,1) 100%);
+}
+
+.btneql{
+    width: 125px;
+    height: 78px;
+    margin-left: 7px;
+    background-color: rgb(90, 11, 11);
+    border-style: groove;
+    border-color: rgb(48, 48, 48);
+    color: white;
+    font-size: 26px;
+    font-style: normal;
+    border-radius: 5px;
+    position: relative;
+    bottom: 4px;
+
+}
+.row1{
+    padding-left: 18px;
+    position: relative;
+    top: 30px;
+}
+.row2{
+    padding-left: 18px;
+    position: relative;
+    top: 50px;
+}
+.row3{
+    padding-left: 18px;
+    position: relative;
+    top: 71px;
+}
+.row4{
+    padding-left: 18px;
+    position: relative;
+    top: 91px;
+}
+.row{
+    margin-left: 17px;
+    position: relative;
+    top: 12px;
+}
+.button{
+    margin-top: 22px;
+}
+.main-body{
+    
+    width: 100%;
+    height: 300px;
+    position: fixed;
+}
+.background{
+    width: 100%;
+    height: 1000px;
+}
+.footer1{
+    color: grey;
+    font-size: 18px;
+    position: relative;
+    top: 95px;
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.footer2{
+    color: grey;
+    font-size: 18px;
+    position: relative;
+    top: 63px;
+    padding-left: 426px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    
+}
+body{
+    margin: 0cm;
+}
